@@ -1,8 +1,10 @@
 ---
 title: "First Markdown File"
-author: "michelle"
+author: "michelle kang"
 date: "January 15, 2019"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
