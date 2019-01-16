@@ -27,6 +27,8 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](First_Markdown_File_files/figure-markdown_github-ascii_identifiers/pressure-1.png)
+![](First_Markdown_File_files/figure-markdown_github/pressure-1.png)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+    ## Warning: Using size for a discrete variable is not advised.
+
+![](First_Markdown_File_files/figure-markdown_github/mpg-1.png) Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
